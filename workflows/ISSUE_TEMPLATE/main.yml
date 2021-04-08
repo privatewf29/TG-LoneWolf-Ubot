@@ -1,9 +1,9 @@
 name: CI
 on:
   push:
-    branches: [ TG-LoneUbot ]
+    branches: [ TG-LoneWolf-Ubot ]
   pull_request:
-    branches: [ TG-LoneUbot ]
+    branches: [ TG-LoneWolf-Ubot ]
   workflow_dispatch:
 jobs:
   build:
