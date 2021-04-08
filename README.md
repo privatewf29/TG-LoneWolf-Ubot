@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://app.codacy.com/gh/mrismanaziz/Userbot-Man/dashboard"> <img src="https://img.shields.io/codacy/grade/a8f0747a964e4712818a28d2a7f4edd3?color=blue&logo=codacy&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/W29F/TG-Lonwolft"> <img src="https://img.shields.io/github/repo-size/W29F/TG-Lonwolf?style=for-the-badge" /></a>
-    <a href="https://github.com/W29F/TG-Lonwolf/network/members"> <img src="https://img.shields.io/github/forks/W29F/TG-Lonwolf?style=for-the-badge" /></a>
+    <a href="https://github.com/W29F/TG-LoneWolf-Ubot"> <img src="https://img.shields.io/github/forks/W29F/TG-LoneWolf-Ubot?style=for-the-badge" /></a>
+    <a href="https://github.com/W29F/TG-LoneWolf-Ubot/network/members"> <img src="https://img.shields.io/github/forks/W29F/TG-Lonwolf?style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.0-blue?style=for-the-badge&logo=appveyor"/>
    </p>
@@ -55,7 +55,7 @@ Pergi Ke  [TEKAN DISINI](https://replit.com/@ErichDaniken/Generate-Telegram-Stri
 ## <p align="center">Deploy to Heroku Methods</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/W29F/TG-Lonwolf"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/W29F/TG-LoneWolf-Ubot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
