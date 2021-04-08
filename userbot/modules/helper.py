@@ -28,13 +28,13 @@ CMD_HELP.update(
     {
         "helper": "**Plugin : **`helper`\
         \n\n  •  **Syntax :** `.ihelp`\
-        \n  •  **Function : **Bantuan Untuk Man-Userbot.\
+        \n  •  **Function : **Bantuan Untuk TG-LoneWolf-Ubot.\
         \n\n  •  **Syntax :** `.listvar`\
         \n  •  **Function : **Melihat Daftar Vars.\
         \n\n  •  **Syntax :** `.repo`\
-        \n  •  **Function : **Melihat Repository Man-Userbot.\
+        \n  •  **Function : **Melihat Repository TG-LoneWolf-Ubot.\
         \n\n  •  **Syntax :** `.string`\
-        \n  •  **Function : **Link untuk mengambil String Man-Userbot.\
+        \n  •  **Function : **Link untuk mengambil String TG-LoneWolf-Ubot.\
     "
     }
 )
